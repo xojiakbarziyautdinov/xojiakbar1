@@ -1,0 +1,248 @@
+Uri: https://syntax.tailwindui.com/
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\index.htm
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/architecture-guide
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\architecture-guide.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/basics-of-time-travel
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\basics-of-time-travel.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/cacheadvance-flush
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\cacheadvance-flush.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/cacheadvance-predict
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\cacheadvance-predict.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/cacheadvance-regret
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\cacheadvance-regret.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/cacheadvance-revert
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\cacheadvance-revert.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/compile-time-caching
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\compile-time-caching.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/design-principles
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\design-principles.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/how-to-contribute
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\how-to-contribute.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/installation
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\installation.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/introduction-to-string-theory
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\introduction-to-string-theory.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/neuralink-integration
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\neuralink-integration.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/predicting-user-behavior
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\predicting-user-behavior.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/predictive-data-generation
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\predictive-data-generation.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/temporal-paradoxes
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\temporal-paradoxes.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/testing
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\testing.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/the-butterfly-effect
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\the-butterfly-effect.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/understanding-caching
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\understanding-caching.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/docs/writing-plugins
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\docs\writing-plugins.html
+Content Type: text/html
+
+Uri: https://syntax.tailwindui.com/favicon.ico
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/23-bc2355a3b809d965.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\23-bc2355a3b809d965.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/231-075f8ed8eb87cf8b.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\231-075f8ed8eb87cf8b.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/55-039642db30578e62.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\55-039642db30578e62.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/580-d6a951fa5c71b879.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\580-d6a951fa5c71b879.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/architecture-guide/page-00204a60c535a93f.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\architecture-guide\page-00204a60c535a93f.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/basics-of-time-travel/page-f844440cd672f984.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\basics-of-time-travel\page-f844440cd672f984.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/cacheadvance-flush/page-13f76ce0279d878d.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\cacheadvance-flush\page-13f76ce0279d878d.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/cacheadvance-predict/page-f4a89c8687e0ecff.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\cacheadvance-predict\page-f4a89c8687e0ecff.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/cacheadvance-regret/page-72dc9c97664021e4.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\cacheadvance-regret\page-72dc9c97664021e4.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/cacheadvance-revert/page-14b5155894646263.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\cacheadvance-revert\page-14b5155894646263.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/compile-time-caching/page-7a7ab61f3b3868fa.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\compile-time-caching\page-7a7ab61f3b3868fa.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/design-principles/page-09acb916c70e53bb.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\design-principles\page-09acb916c70e53bb.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/how-to-contribute/page-4f084279111eae8c.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\how-to-contribute\page-4f084279111eae8c.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/installation/page-da4dba0e42360fdf.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\installation\page-da4dba0e42360fdf.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/introduction-to-string-theory/page-3f96a8eedc88437b.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\introduction-to-string-theory\page-3f96a8eedc88437b.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/neuralink-integration/page-f49e3754531148eb.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\neuralink-integration\page-f49e3754531148eb.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/predicting-user-behavior/page-649f08111608ab8f.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\predicting-user-behavior\page-649f08111608ab8f.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/predictive-data-generation/page-7f8eb5377b68b337.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\predictive-data-generation\page-7f8eb5377b68b337.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/temporal-paradoxes/page-e6245c05933cb0ca.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\temporal-paradoxes\page-e6245c05933cb0ca.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/testing/page-9bad23251ba9a10b.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\testing\page-9bad23251ba9a10b.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/the-butterfly-effect/page-c131c0cf21afcc42.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\the-butterfly-effect\page-c131c0cf21afcc42.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/understanding-caching/page-b23546e0ad37d010.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\understanding-caching\page-b23546e0ad37d010.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/docs/writing-plugins/page-f510ba84b538c75a.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\docs\writing-plugins\page-f510ba84b538c75a.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/layout-6da479ca71851f40.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\layout-6da479ca71851f40.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/app/page-3574076f30fc9ab8.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\app\page-3574076f30fc9ab8.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/c16f53c3-b29d84a278ff9062.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\c16f53c3-b29d84a278ff9062.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/fd9d1056-87150b81a97b2e5e.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\fd9d1056-87150b81a97b2e5e.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/main-app-10ccd9398caea97d.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\main-app-10ccd9398caea97d.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/chunks/webpack-9e596ff017206e83.js
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\chunks\webpack-9e596ff017206e83.js
+Content Type: application/javascript
+
+Uri: https://syntax.tailwindui.com/_next/static/css/461621a91697a7fd.css
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\css\461621a91697a7fd.css
+Content Type: text/css
+
+Uri: https://syntax.tailwindui.com/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/8935352d0bfcf3a9-s.p.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\8935352d0bfcf3a9-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/blur-cyan.d28a5585.png
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\blur-cyan.d28a5585.png
+Content Type: image/png
+
+Uri: https://syntax.tailwindui.com/_next/static/media/blur-indigo.b752cf77.png
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\blur-indigo.b752cf77.png
+Content Type: image/png
+
+Uri: https://syntax.tailwindui.com/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://syntax.tailwindui.com/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\syntax.tailwindui.com\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+

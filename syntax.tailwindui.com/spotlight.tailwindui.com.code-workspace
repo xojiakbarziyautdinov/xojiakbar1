@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../spotlight.tailwindui.com"
+		},
+		{
+			"path": "../tailwindui.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
